@@ -1,0 +1,10 @@
+GET localhost:3000/blogposts
+
+################################
+PUT localhost:3000/blogposts/2
+
+{
+  "title": "Blog Post",
+  "content": "Blog Post2222"
+
+}
